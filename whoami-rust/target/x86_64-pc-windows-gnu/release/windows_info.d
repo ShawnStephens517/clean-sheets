@@ -1,0 +1,1 @@
+/Users/sstephens/Desktop/projects/github/personal/clean-sheets/whoami-rust/target/x86_64-pc-windows-gnu/release/windows_info.exe: /Users/sstephens/Desktop/projects/github/personal/clean-sheets/whoami-rust/src/main.rs
