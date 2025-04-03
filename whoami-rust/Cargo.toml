@@ -1,6 +1,7 @@
 [package]
-name = "windows_info"
+name = "clean-sheets-rust"
 version = "0.1.0"
 edition = "2021"
+authors = ["Shawn Stephens"]
 
 [dependencies]
